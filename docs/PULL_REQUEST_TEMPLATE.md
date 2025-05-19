@@ -1,4 +1,4 @@
-#Tipo de usuario
+# Tipo de usuario
 
 
  - [ ] Alfa
@@ -8,7 +8,7 @@
  - [ ] Echo
 
 
-#Tecnología
+# Tecnología
 
 
 - [ ] HTML
@@ -18,7 +18,7 @@
 - [ ] Markdown / .md
 
 
-#Seleccione el tipo de actividad
+# Seleccione el tipo de actividad
 
 
 - [ ] Feature
